@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[michaelwsherer]]></title>
         <description><![CDATA[michaelwsherer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michaelwsherer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 00:34:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 01:00:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michaelwsherer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7b3706-1e25-4a39-9968-f437ef65c07e.jpg">]]></description>
-            <link>undefined142f3573-95ab-48bd-a075-b94a8e082b95/index.html</link>
+            <link>https://thegrid.ai/michaelwsherer/142f3573-95ab-48bd-a075-b94a8e082b95/index.html</link>
             <guid isPermaLink="false">142f3573-95ab-48bd-a075-b94a8e082b95</guid>
-            <pubDate>Wed, 13 Jan 2016 00:34:27 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 00:59:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
